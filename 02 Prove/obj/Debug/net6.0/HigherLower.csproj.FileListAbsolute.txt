@@ -1,0 +1,5 @@
+C:\Users\ronyr\Desktop\School\CSE 210\02 Prove\obj\Debug\net6.0\HigherLower.csproj.AssemblyReference.cache
+C:\Users\ronyr\Desktop\School\CSE 210\02 Prove\obj\Debug\net6.0\HigherLower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronyr\Desktop\School\CSE 210\02 Prove\obj\Debug\net6.0\HigherLower.AssemblyInfoInputs.cache
+C:\Users\ronyr\Desktop\School\CSE 210\02 Prove\obj\Debug\net6.0\HigherLower.AssemblyInfo.cs
+C:\Users\ronyr\Desktop\School\CSE 210\02 Prove\obj\Debug\net6.0\HigherLower.csproj.CoreCompileInputs.cache
